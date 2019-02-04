@@ -1,0 +1,3 @@
+interface GreetingMessage {
+  message: string;
+}
